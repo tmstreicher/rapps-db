@@ -10,6 +10,7 @@ URLDownload = https://cdn09.foxitsoftware.com/product/reader/desktop/win/9.1/Fox
 SHA1 = b158cbc4095c184bbcb65af38e7c0dee28b56bfc
 CDPath = none
 SizeBytes = 81823328
+Recommended = true
 
 [Section.0407]
 Version = 9.1.0

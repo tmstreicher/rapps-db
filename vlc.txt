@@ -10,6 +10,7 @@ URLDownload = https://ftp.icm.edu.pl/pub/video/vlc/vlc/3.0.7.1/win32/vlc-3.0.7.1
 SHA1 = 23ed9eaf6e82596964f2a2c0eda141b5dcb4d14c
 CDPath = none
 SizeBytes = 40693760
+Recommended = true
 
 [Section.0407]
 Description = Voll funktionsfähiger FOSS Media-Player mit eingebauten Codecs.

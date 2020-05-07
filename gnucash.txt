@@ -10,6 +10,7 @@ URLDownload = https://download.sourceforge.net/sourceforge/gnucash/gnucash%20%28
 SHA1 = 1e0c6b54de65824b24feb30e96de2f062bb9787e
 CDPath = none
 SizeBytes = 119588469
+Recommended = true
 
 [Section.0407]
 Description = Privat und Small-Business Finanzbuchhaltungssoftware, unter der GNU GPL lizenziert und frei für GNU / Linux, BSD, Solaris, Mac OS X und Microsoft Windows verfügbar.
