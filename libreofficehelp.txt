@@ -10,6 +10,7 @@ URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.
 SHA1 = cd700f10c88c6807c44b074b3362ca94f19eff36
 CDPath = none
 SizeBytes = 5357568
+Recommended = true
 
 [Section.0407]
 Name = LibreOffice Help Pack

@@ -10,6 +10,7 @@ URLDownload = https://web.archive.org/web/20180526163030if_/http://www.tucows.co
 SHA1 = 1e2d2a83eeb9d4f5d48776789e159a3ba332f5fd
 CDPath = none
 SizeBytes = 16595080
+Recommended = true
 
 [Section.0407]
 License = Freeware für nichtkommerzielle Nutzung

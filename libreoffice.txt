@@ -10,6 +10,7 @@ URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4
 SHA1 = be0769418eed84391f9cbcb3702b5e7d344cdfa0
 CDPath = none
 SizeBytes = 225308672
+Recommended = true
 
 [Section.0407]
 Description = Vorher bekannt als OpenOffice. Quelloffene Office Suite.

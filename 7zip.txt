@@ -10,6 +10,7 @@ URLDownload = https://www.7-zip.org/a/7z1900.exe
 SHA1 = 2f23a6389470db5d0dd2095d64939657d8d3ea9d
 CDPath = none
 SizeBytes = 1185968
+Recommended = true
 
 [Section.0001]
 Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها

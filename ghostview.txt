@@ -10,6 +10,7 @@ URLDownload = http://ghostgum.com.au/download/gsv50w32.exe
 SHA1 = e2a99a0725769f9e0c622ca37adead6fe32ea165
 CDPath = none
 SizeBytes = 2032640
+Recommended = true
 
 [Section.0407]
 Description = Grafisches Interface für Ghostscript.
